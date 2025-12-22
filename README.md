@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <strong>👋 Hola, soy Guillermo — @gjmosquerac</strong>
+  <strong>👋 Hola, soy Guillermo Mosquera — @gjmosquerac</strong>
 </p>
 
 <p align="center">
-  <em>Estudiante de Ingeniería de Sistemas • Principiante en backend (PHP · Laravel) • Aprendiendo activamente y abierto a mentoría</em>
+  <em>Estudiante de Ingeniería de Sistemas • Principiante en Frontend — Backend (PHP · Laravel) • Aprendiendo activamente y abierto a mentoría</em>
 </p>
 
 <p align="center">
