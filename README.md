@@ -97,10 +97,6 @@
   <strong>Contact:</strong> gjmosquerac@gmail.com • WhatsApp: 0424-5194489 • Discord: gjmosquerac5 • LinkedIn: linkedin.com/in/gjmosquerac
 </p>
 
-<p align="left">
-1) Copy this entire block and paste it at the top of <code>README.md</code> in the repository <code>gjmosquerac/gjmosquerac</code>. 2) Replace demo repo links and the site/CV links if you have specific URLs. 3) To make the Surface UI dynamic, upload a GIF (3–6s) to the repo and replace the ASCII block with <code>!demo</code> centered. 4) Keep the status values updated manually (projects, last commit, CI) to show real progress. 5) Share the README on LinkedIn/X/Dev.to to attract mentors and collaborators.
-</p>
-
 <p align="center">
   <em>Ready to help further: I can adapt language, add a GIF placeholder, or convert this to a bilingual version if you want.</em>
 </p>
