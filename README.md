@@ -1,6 +1,5 @@
-`markdown
 <p align="center">
-  <img src="images/banner.png" alt="Banner" width="100%" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.45);" />
+  <img src="images/banner.png" alt="Banner" width="1200" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.45);" />
 </p>
 
 <p align="center">
@@ -26,29 +25,28 @@
 
 <div align="center">
 
-`text
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  ╔═╦═══════════════════════════════════════════════════════════════════════════════════════╗  │
-│  ║▌║  Virtual Dev Surface  —  "Surface UI"  •  Guillermo (@gjmosquerac)                     ║  │
-│  ╚═╩═══════════════════════════════════════════════════════════════════════════════════════╝  │
-│                                                                                              │
-│  [ STATUS ]                [ TASKS ]                    [ QUICK LINKS ]            [ AI HINTS ]│
-│  ───────────────────────   ────────────────────         ────────────────────        ──────────│
-│  • Projects: 3              • Todo: 5                    • Repo: sistema-gestion-escolar     │
-│  • Last commit: 2d         • In progress: 2              • Docs: /docs                      │
-│  • CI: passing             • Blocked: 1                  • Demo: /live                      │
-│                                                                                              │
-│  ┌──────────────────────────────┐   ┌──────────────────────────────────────────────────────┐  │
-│  │ Progress                     │   │ Recent activity                                     │  │
-│  │ [PHP/Laravel] ██████░░░░ 60%  │   │ • Commit: optimizar consultas                       │  │
-│  │ [Testing]     ████░░░░░ 40%   │   │ • PR: añadir feature tests                          │  │
-│  │ [Docker]      █████░░░░ 50%   │   │ • CI: pipeline passing                              │  │
-│  └──────────────────────────────┘   └──────────────────────────────────────────────────────┘  │
-│                                                                                              │
-│  [ Quick Actions ]  > run tests  |  > docker up  |  > open docs  |  > request mentor review     │
-│                                                                                              │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
-`
+```text
+┌───────────────────────────────────────────────────────────────────────
+│  ╔═╦══════════════════════════════════════════════════════════════════
+│  ║▌║  Virtual Dev Surface  —  "Surface UI"  •  Guillermo (@gjmosquerac)
+│  ╚═╩══════════════════════════════════════════════════════════════════
+│
+│  [ STATUS ]                [ TASKS ]                    [ QUICK LINKS ]
+│  ───────────────────────   ────────────────────         ──────────────────
+│  • Projects: 3              • Todo: 5                    • Repo: sistema-gestion-escolar
+│  • Last commit: 2d         • In progress: 2              • Docs: /docs
+│  • CI: passing             • Blocked: 1                 • Demo: /live
+│
+│  ┌──────────────────────────────┐   ┌───────────────────────────────
+│  │ Progress                     │   │ Recent activity
+│  │ [PHP/Laravel] ██████░░░░ 60%  │   │ • Commit: optimizar consultas
+│  │ [Testing]     ████░░░░░ 40%   │   │ • PR: añadir feature tests
+│  │ [Docker]      █████░░░░ 50%   │   │ • CI: pipeline passing
+│  └──────────────────────────────┘   └───────────────────────────────
+│
+│  [ Quick Actions ]  > run tests  |  > docker up  |  > open docs  |  > request mentor review
+└───────────────────────────────────────────────────────────────────────
+```
 
 </div>
 
@@ -94,7 +92,7 @@
 </p>
 
 <p style="margin-top:12px">
-  Quick access: <a href="https://github.com/gjmosquerac/sistema-gestion-escolar" target="blank"><code>sistema-gestion-escolar</code></a> • <a href="https://github.com/gjmosquerac/api-inventario" target="blank"><code>api-inventario</code></a> • <a href="https://github.com/gjmosquerac/php-crud-practice" target="_blank"><code>php-crud-practice</code></a>
+  Quick access: <a href="https://github.com/gjmosquerac/sistema-gestion-escolar" target="_blank"><code>sistema-gestion-escolar</code></a> • <a href="https://github.com/gjmosquerac/api-inventario" target="_blank"><code>api-inventario</code></a> • <a href="https://github.com/gjmosquerac/php-crud-practice" target="_blank"><code>php-crud-practice</code></a>
 </p>
 
 <p align="center" style="margin-top:14px">
@@ -115,6 +113,5 @@
 </p>
 
 <p align="center" style="margin-top:14px; color:#9aa4b2">
-  (Instrucciones mínimas: la imagen del banner ya está en la carpeta images. Si quieres otro tamaño, cambia width="100%" por width="1200" o width="800". Para usar un GIF demo reemplaza el bloque ASCII por <code>!demo</code>. Mantén los valores de estado actualizados manualmente.)
+  (Instrucciones mínimas: la imagen del banner ya está en la carpeta images. Si quieres otro tamaño, cambia width="100%" por width="1200" o width="800". Para usar un GIF demo reemplaza el bloque ASCII por la GIF en images/demo.gif y ajusta el width.)
 </p>
-`
