@@ -1,6 +1,6 @@
 `markdown
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.45);" />
+  <img src="images/banner.png" alt="Banner" width="100%" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.45);" />
 </p>
 
 <p align="center">
@@ -115,6 +115,6 @@
 </p>
 
 <p align="center" style="margin-top:14px; color:#9aa4b2">
-  (Instrucciones mínimas: sube tu banner a <code>assets/banner.png</code> o reemplaza la ruta del primer <code>&lt;img&gt;</code> por la URL que prefieras. Si subes un GIF demo, reemplaza el bloque ASCII por <code>!demo</code>. Mantén los valores de estado actualizados manualmente.)
+  (Instrucciones mínimas: la imagen del banner ya está en la carpeta images. Si quieres otro tamaño, cambia width="100%" por width="1200" o width="800". Para usar un GIF demo reemplaza el bloque ASCII por <code>!demo</code>. Mantén los valores de estado actualizados manualmente.)
 </p>
 `
