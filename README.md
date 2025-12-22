@@ -1,3 +1,5 @@
+<!-- README completo listo para pegar en tu repositorio de perfil (gjmosquerac/gjmosquerac) -->
+
 <p align="center">
   <img src="https://github.com/gjmosquerac.png" width="120" alt="avatar" style="border-radius:50%;" />
 </p>
@@ -11,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gjmosquerac@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/gjmosquerac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/gjmosquerac" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://gjmosquerac.dev" target="_blank"><img src="https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:gjmosquerac@gmail.com"><img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" /></a>
+  <a href="https://linkedin.com/in/gjmosquerac" target="_blank"><img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/gjmosquerac" target="_blank"><img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub" /></a>
+  <a href="https://gjmosquerac.dev" target="_blank"><img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=googlechrome&logoColor=white&color=0A0A0A" alt="Website" /></a>
 </p>
 
 <div align="center">
