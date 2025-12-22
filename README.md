@@ -1,103 +1,104 @@
-# Guillermo Mosquera — @gjmosquerac
+<!-- Banner principal -->
+<p align="center">
+  <img src="https://github.com/gjmosquerac.png" width="120" alt="avatar" style="border-radius:50%;" />
+</p>
 
-![Status: Learning](https://img.shields.io/badge/status-learning-blue?style=flat-square)
-![Stack: PHP | JavaScript | IA](https://img.shields.io/badge/stack-PHP%20%7C%20JavaScript%20%7C%20AI-yellow?style=flat-square)
-![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+<h1 align="center">👋 Hola, soy **Guillermo** (<strong>@gjmosquerac</strong>)</h1>
 
-**Aprendiendo desarrollo web y creación de contenido con IA**
+<p align="center">
+  <em>Ingeniero en formación • Desarrollador full‑stack en aprendizaje • Apasionado por backend con PHP/Laravel</em>
+</p>
 
-Hola, soy **Guillermo (GJ) Mosquera**. Estoy en un proceso práctico de aprendizaje en desarrollo web y en la creación de contenido potenciado por IA. Aquí comparto proyectos de práctica, experimentos, prompts y notas de aprendizaje. Si estás aprendiendo también o tienes experiencia que compartir, **me encantaría tu feedback y mentoría**.
-
----
-
-## 🔭 En qué estoy trabajando ahora
-
-Aprendo haciendo: proyectos pequeños, ejercicios y documentación paso a paso para consolidar conceptos y buenas prácticas.
-
-**Stack y herramientas que uso**  
-XAMPP · PHP · Laravel · Composer · Node.js · JavaScript · Git Bash · Docker · Visual Studio Code · Copilot · OpenAI · Claude Code · Deepseek · Gemini Banana Pro
-
----
-
-## 🧪 Proyectos de práctica (ejemplos)
-
-Estos repos documentan mi aprendizaje con pasos, errores y soluciones. Cada repo incluye un README con lo que intenté, por qué falló y cómo lo solucioné.
-
-- **content-ai-toolkit** — Colección de prompts, ejemplos y scripts para generar guiones, captions y thumbnails; enfoque en experimentación y resultados comparativos.  
-- **laravel-starter-practice** — Pequeña app CRUD para aprender rutas, controladores, validación y vistas en Laravel; incluye instrucciones para XAMPP y Composer.  
-- **node-autopublish-demo** — Script educativo para automatizar publicaciones usando APIs; pensado como laboratorio de integración y pruebas.  
-- **docker-dev-setup** — Boilerplate para levantar entornos locales con Docker y XAMPP; documentación paso a paso para aprendices.  
-- **prompt-playground** — Comparativas y notas sobre resultados entre OpenAI, Claude y Gemini; incluye prompts y métricas básicas.
+<p align="center">
+  <!-- Llamadas a la acción -->
+  <a href="mailto:tu-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/gjmosquerac" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## ✅ Cómo uso este espacio
+## Presentación
 
-- **Documentación honesta:** explico qué intenté, por qué falló y cómo lo solucioné.  
-- **Código en progreso:** encontrarás soluciones prácticas y aprendizajes; no todo está perfecto.  
-- **Issues y contribuciones:** valoro el feedback; si ves una mejora, abre un issue o PR.
+**Resumen**  
+Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo backend y aplicaciones web. Trabajo con PHP y Laravel, y estoy ampliando habilidades en JavaScript, bases de datos y despliegue con Docker. Busco colaborar en proyectos reales, recibir mentoría y contribuir a código abierto.
 
----
-
-## 🤝 Colaboración y mentoría
-
-**Cómo puedes ayudarme**  
-- Abre un **issue** con sugerencias, preguntas o correcciones.  
-- Deja comentarios en mis **pull requests** con mejoras concretas.  
-- Si puedes, ofrece mentoría puntual o revisiones de código.
-
-**Cómo contribuir**  
-1. Forkea el repo  
-2. Crea una rama: `git checkout -b mejora/tu-idea`  
-3. Haz commits claros y descriptivos  
-4. Abre un pull request explicando el cambio
-
-**Contacto**  
-- GitHub: [@gjmosquerac](https://github.com/gjmosquerac)  
-- Email: añade tu email en el perfil para contacto directo  
-- LinkedIn / Twitter: enlaces en mi perfil
+**Objetivo profesional**  
+Mejorar prácticas de arquitectura backend, dominar despliegue y CI/CD, y publicar proyectos que demuestren soluciones completas.
 
 ---
 
-## 🎯 Qué busco
+## Stack tecnológico
 
-- Aprender buenas prácticas de desarrollo y despliegue con PHP y Laravel.  
-- Mejorar prompts y flujos de trabajo con IA.  
-- Conectar con aprendices y mentores para recibir feedback honesto.  
-- Colaborar en proyectos pequeños donde pueda aportar y aprender.
+#### Lenguajes
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+</p>
+
+#### Frameworks y Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
+</p>
+
+#### Bases de datos
+<p align="center">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
+</p>
+
+#### DevOps y despliegue
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="NGINX" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions" />
+</p>
+
+#### Herramientas y utilidades
+<p align="center">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/-Composer-8892BF?logo=composer&logoColor=white&style=for-the-badge" alt="Composer" />
+  <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm" />
+</p>
 
 ---
 
-## 💡 Tres ideas de repositorios iniciales
+## Proyectos destacados
 
-**1. php-laravel-crud-tutorial**  
-**Propósito:** Tutorial paso a paso para crear una app CRUD con Laravel, pensado para aprendices. Incluye instrucciones para XAMPP, migraciones, validación y despliegue local.  
-**Valor:** demuestra comprensión de fundamentos de Laravel y sirve como recurso para otros que empiezan.
-
-**2. ai-prompt-templates**  
-**Propósito:** Biblioteca organizada de prompts reutilizables para generación de guiones, captions y contenido multimedia, con notas sobre ajustes y resultados por modelo.  
-**Valor:** centraliza experimentos con OpenAI, Claude y Gemini para compartir buenas prácticas de prompting.
-
-**3. docker-local-dev-stack**  
-**Propósito:** Configuración Docker y Compose para levantar un entorno local con PHP, Laravel, Node.js y MySQL, documentado para usuarios que usan XAMPP y quieren migrar a contenedores.  
-**Valor:** facilita a otros aprendices reproducir un entorno de desarrollo moderno sin fricción.
+- **Sistema de gestión escolar** — Backend con Laravel, MySQL, Docker; autenticación y roles; despliegue en VPS.  
+- **API REST de inventario** — Node.js + Express, PostgreSQL, pruebas con Jest; documentación OpenAPI.  
+- **CRUD con PHP y Bootstrap** — Proyecto de práctica para entender flujo MVC y despliegue local con Docker.
 
 ---
 
-## 📌 Badges individuales (opcional: pega donde prefieras)
+## Cómo presentarlo como banner en tu README
 
-```markdown
-![XAMPP](https://img.shields.io/badge/XAMPP-FF6F00?style=flat-square&logo=xampp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git%20Bash-000000?style=flat-square&logo=git&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-8892BF?style=flat-square&logo=composer&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-0F172A?style=flat-square&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Anthropic-7C3AED?style=flat-square)
-![Deepseek](https://img.shields.io/badge/Deepseek-🔎-blue?style=flat-square)
-![Gemini Banana Pro](https://img.shields.io/badge/Gemini_Banana_Pro-🍌-orange?style=flat-square)
+1. **Coloca el bloque del Banner** al inicio del `README.md` (todo lo que está antes de la primera línea `---`).  
+2. **Mantén las imágenes centradas** usando `<p align="center">` para que se vean como un banner horizontal.  
+3. **Usa badges estilo for-the-badge** para mayor legibilidad en el banner.  
+4. **Incluye CTA visibles** (Email, LinkedIn, GitHub) con badges clicables.  
+5. **Optimiza texto**: título corto, subtítulo con roles y 1–2 líneas de resumen.
+
+---
+
+## Contacto
+
+**Email:** gjmosquerac@gmail.com  
+**LinkedIn:** https://linkedin.com/in/gjmosquerac
+**GitHub:** https://github.com/gjmosquerac
+
+---
+
+## Instrucciones para aplicar
+
+1. Copia todo el contenido del bloque Markdown anterior.  
+2. Abre `README.md` en `gjmosquerac/gjmosquerac` → ✏️ editar.  
+3. Pega y **Commit directly to the principal branch** o crea PR si prefieres revisión.  
+4. Ve a tu perfil → **Customize your pins** → selecciona este repo.  
+5. Refresca tu perfil (Ctrl+F5) y espera 1–2 minutos.
