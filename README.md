@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <strong>👋 Hola, soy Guillermo Mosquera — @gjmosquerac</strong>
+  <strong>👋 Hola, soy Guillermo — @gjmosquerac</strong>
 </p>
 
 <p align="center">
-  <em>Estudiante de Ingeniería de Sistemas • Principiante en Frontend — Backend (PHP · Laravel) • Aprendiendo activamente y abierto a mentoría</em>
+  <em>Estudiante de Ingeniería de Sistemas • Backend (PHP · Laravel) • Aprendiendo activamente y abierto a mentoría</em>
 </p>
 
 <p align="center">
@@ -47,25 +47,10 @@
 </div>
 
 <p align="center">
-  <!-- Row 1: Lenguajes y frontend -->
   <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=php&logoColor=white&color=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20" alt="Laravel" />
   <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3" />
-</p>
-
-<p align="center">
-  <!-- Row 2: Backend y bases de datos -->
-  <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=express&logoColor=white&color=000000" alt="Express" />
   <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=redis&logoColor=white&color=DC382D" alt="Redis" />
-</p>
-
-<p align="center">
-  <!-- Row 3: DevOps y herramientas -->
   <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=nginx&logoColor=white&color=009639" alt="NGINX" />
   <img src="https://img.shields.io/badge/%20-?style=for-the-badge&logo=githubactions&logoColor=white&color=2088FF" alt="GitHub Actions" />
@@ -76,39 +61,23 @@
 </p>
 
 <p align="center">
-  • Proyectos activos: 3 • Último commit: hace 2 días • CI: GitHub Actions (passing) • Enfoque: PHP · Laravel · pruebas · optimización SQL · Docker • Intereses: IA aplicada, entornos virtuales, interfaces superficiales
+  <strong>• Projects active: 3 • Last commit: 2 days ago • CI: GitHub Actions (passing) • Focus: PHP · Laravel · testing · SQL optimization · Docker • Interests: AI applied, virtual dev surfaces</strong>
 </p>
 
 <p align="left">
-• Prioridad inmediata (2–4 semanas):
-  1. Optimizar consultas Eloquent: identificar consultas lentas, añadir índices, aplicar eager loading y usar <code>EXPLAIN</code> para profiling.
-  2. Escribir tests: crear suite de unit y feature tests en Laravel con PHPUnit; integrar ejecución en GitHub Actions.
-  3. Dockerizar entorno: <code>docker-compose</code> reproducible para desarrollo y staging; documentar pasos en el README del repo.
+• <strong>sistema-gestion-escolar</strong> — Laravel · MySQL · Docker — status: in progress (roles, admin panel, performance improvements).  
+• <strong>api-inventario</strong> — Node.js · Express · PostgreSQL — status: testing & docs (OpenAPI, unit tests).  
+• <strong>php-crud-practice</strong> — PHP · Bootstrap — status: learning exercise (MVC, validation, local deploy).
 </p>
 
 <p align="left">
-• Siguientes pasos (1–3 meses):
-  1. CI/CD: pipeline que ejecute tests, haga lint y despliegue a staging si todo pasa.
-  2. Observabilidad: logs estructurados y alertas básicas (Sentry o similar).
-  3. Buenas prácticas: aplicar SOLID, manejo centralizado de excepciones y validaciones.
+• Immediate (2–4 weeks): 1) Profile slow queries with <code>EXPLAIN</code> and add indexes; 2) Write unit & feature tests in Laravel (PHPUnit) and run them in CI; 3) Create reproducible <code>docker-compose</code> dev environment and document it.  
+• Next steps (1–3 months): 1) Build GitHub Actions pipeline to run tests, lint and deploy to staging; 2) Add structured logging and basic error monitoring (Sentry); 3) Apply SOLID basics and centralize exception handling.  
+• Extras to stand out: create a 3–6s GIF demo of this Surface UI, publish a technical post (LinkedIn/Dev.to) about an optimization or test you added, and contribute small PRs to open-source projects.
 </p>
 
 <p align="left">
-• Extras para visibilidad:
-  - Crear un GIF demo (3–6s) de la "Surface UI" y subirlo al repo; reemplazar el bloque ASCII por la imagen animada.
-  - Publicar un hilo en X/LinkedIn mostrando antes/después del README y explicar técnicamente una mejora.
-  - Contribuir con PRs pequeños en proyectos open source y documentar cada contribución en el perfil.
-</p>
-
-<p align="left">
-• Proyectos (acceso rápido):
-  - <strong>sistema-gestion-escolar</strong> — Laravel · MySQL · Docker — estado: en mejora continua (autenticación por roles, panel admin).
-  - <strong>api-inventario</strong> — Node.js · Express · PostgreSQL — estado: práctica y pruebas (documentación OpenAPI).
-  - <strong>php-crud-practice</strong> — PHP · Bootstrap — estado: ejercicio MVC y despliegue local.
-</p>
-
-<p align="center">
-  <a href="https://github.com/gjmosquerac" target="blank">Ver repositorios</a> • <a href="https://gjmosquerac.dev" target="blank">Sitio personal</a>
+• Quick access: <a href="https://github.com/gjmosquerac/sistema-gestion-escolar" target="blank"><code>sistema-gestion-escolar</code></a> • <a href="https://github.com/gjmosquerac/api-inventario" target="blank"><code>api-inventario</code></a> • <a href="https://github.com/gjmosquerac/php-crud-practice" target="_blank"><code>php-crud-practice</code></a>
 </p>
 
 <p align="center">
@@ -125,10 +94,14 @@
 </p>
 
 <p align="center">
-  WhatsApp: 0424-5194489 • Discord: gjmosquerac5
+  <strong>Contact:</strong> gjmosquerac@gmail.com • WhatsApp: 0424-5194489 • Discord: gjmosquerac5 • LinkedIn: linkedin.com/in/gjmosquerac
+</p>
+
+<p align="left">
+1) Copy this entire block and paste it at the top of <code>README.md</code> in the repository <code>gjmosquerac/gjmosquerac</code>. 2) Replace demo repo links and the site/CV links if you have specific URLs. 3) To make the Surface UI dynamic, upload a GIF (3–6s) to the repo and replace the ASCII block with <code>!demo</code> centered. 4) Keep the status values updated manually (projects, last commit, CI) to show real progress. 5) Share the README on LinkedIn/X/Dev.to to attract mentors and collaborators.
 </p>
 
 <p align="center">
-  (Copia y pega este bloque exactamente al inicio de tu README; reemplaza enlaces de repositorios, CV y demo si lo deseas. Para mayor impacto sube un GIF demo de la "Surface UI" y reemplaza el bloque ASCII por la imagen animada.)
+  <em>Ready to help further: I can adapt language, add a GIF placeholder, or convert this to a bilingual version if you want.</em>
 </p>
 `
