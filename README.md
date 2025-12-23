@@ -70,15 +70,3 @@
 <p align="center" style="margin-top:12px">
   <strong>Contacto</strong> • gjmosquerac@gmail.com • WhatsApp: 0424-5194489 • Discord: gjmosquerac5 • LinkedIn: linkedin.com/in/gjmosquerac
 </p>
-
-<p align="center" style="margin-top:12px">
-  <strong>Proyectos</strong> • Accede a tus repositorios desde tu perfil de GitHub (usa los enlaces rápidos arriba).
-</p>
-
-<p align="center" style="margin-top:12px">
-  <strong>Manifestación</strong> • Presenta tu trabajo con GIFs cortos, demos en vivo y descripciones claras; prioriza pruebas y documentación.
-</p>
-
-<p style="margin-top:14px; color:#9aa4b2">
-  (Instrucciones: pega este bloque exactamente en tu <code>README.md</code>. Asegúrate de que <code>images/banner.png</code> exista en la carpeta <code>images</code> del repo; si no, súbela con Add file → Upload files. Para un efecto 3D más marcado, sube una versión del banner con sombras y botones 3D; para un demo animado reemplaza la primera etiqueta <code>&lt;img&gt;</code> por <code>!demo</code>.)
-</p>
