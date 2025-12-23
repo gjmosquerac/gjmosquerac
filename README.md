@@ -25,30 +25,6 @@
 
 <div align="center">
 
-`text
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  ╔═╦═══════════════════════════════════════════════════════════════════════════════════════╗  │
-│  ║▌║  Surface UI (Bootstrap look)  •  Guillermo (@gjmosquerac)                             ║  │
-│  ╚═╩═══════════════════════════════════════════════════════════════════════════════════════╝  │
-│                                                                                              │
-│  [ ESTADO ]               [ TAREAS ]                    [ ENLACES RÁPIDOS ]        [ HINTS ]│
-│  ───────────────────────   ────────────────────         ────────────────────        ──────────│
-│  • Proyectos: 3            • Todo: 5                    • Repo: sistema-gestion-escolar     │
-│  • Último commit: 2d       • En progreso: 2             • Docs: /docs                      │
-│  • CI: passing             • Bloqueado: 1               • Demo: /live                      │
-│                                                                                              │
-│  ┌──────────────────────────────┐   ┌──────────────────────────────────────────────────────┐  │
-│  │ Progreso                     │   │ Actividad reciente                                  │  │
-│  │ [PHP/Laravel] ██████░░░░ 60%  │   │ • Commit: optimizar consultas                       │  │
-│  │ [Testing]     ████░░░░░ 40%   │   │ • PR: añadir feature tests                          │  │
-│  │ [Docker]      █████░░░░ 50%   │   │ • CI: pipeline passing                              │  │
-│  └──────────────────────────────┘   └──────────────────────────────────────────────────────┘  │
-│                                                                                              │
-│  [ Acciones ]  > run tests  |  > docker up  |  > open docs  |  > request mentor review         │
-│                                                                                              │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
-`
-
 </div>
 
 <p align="center" style="margin-top:14px">
